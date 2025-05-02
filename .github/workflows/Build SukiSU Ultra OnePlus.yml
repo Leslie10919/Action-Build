@@ -15,6 +15,7 @@ on:
           - sm8550
           - sm8650
           - sm8750
+          - sm8635
       FEIL:
         type: choice
         description: "配置文件"
@@ -41,6 +42,7 @@ on:
           - oneplus_pad2_v
           - oneplus_13
           - oneplus_ace5_pro
+          -realme_GT_Neo6
           - GitHub有bug可能不显示最后一项,误使用此项
       CPUD:
         type: choice
